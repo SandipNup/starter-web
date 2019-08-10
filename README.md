@@ -17,7 +17,7 @@ This is the contribute section
 ## Purpose
 
 ## How To Contribute
->>>>>>> beb2e0c955d6d071d342bf6e4608dda26c236d80
+>>>>>>> bee0c955d6d071d342bf6e4608dda26c236d80
 
 ## Deployment
 You can deploy this project in the heroku
@@ -26,3 +26,5 @@ You can deploy this project in the heroku
 this is for demo purpose 
 
 ##Make change
+
+2019-5 @copyright
