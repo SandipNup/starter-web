@@ -17,7 +17,7 @@ This is the contribute section
 ## Purpose
 
 ## How To Contribute
->>>>>>> bee0c955d6d071d342bf6e4608dda26c236d80
+Please fork this repository and make some pull request
 
 ## Deployment
 You can deploy this project in the heroku
