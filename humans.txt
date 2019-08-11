@@ -13,3 +13,7 @@
 
     HTML5, CSS3
     jQuery, Modernizr
+
+
+# Invoation and You
+	Keep your mind innovative and work hard on your new idea.
